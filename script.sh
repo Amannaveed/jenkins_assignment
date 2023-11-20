@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "${params.branch_name}"
+echo "Branch name is: $1"
